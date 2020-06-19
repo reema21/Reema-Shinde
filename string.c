@@ -1,6 +1,5 @@
 #include <stdio.h>
 void displayString(char str[]);
-
 int main()
 {
     char str[50];
